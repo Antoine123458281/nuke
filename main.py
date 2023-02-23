@@ -24,7 +24,7 @@ baner = f'''
 ╰╯╱╰┻╯╰┻━━┻╯╰━┻━━┻╯╰━┻━╮╭┻━━╯
 ╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╭━╯┃
 ╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╰━━╯
-{y}Made by: {g}https://github.com/hacker999-byte'''
+{y}Made by: {g}https://github.com/Antoine123458281'''
 
 
 
